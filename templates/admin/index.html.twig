@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello AdminController!{% endblock %}
+
+{% block content %}
+    <button type = "button" onclick = "location.href='/admin/users'" class="btn btn-primary btn-lg btn-block" > Users controll </button >
+    <button type = "button" onclick = "location.href='/admin/quizzes'" class="btn btn-secondary btn-lg btn-block" > Quizzes controll </button >
+    <button type = "button" onclick = "location.href='/admin/questions'" class="btn btn-primary btn-lg btn-block" > Questions controll </button >
+{% endblock %}

@@ -17,6 +17,9 @@ class RegistrationController extends AbstractController
      */
     public function register(Request $request, UserPasswordEncoderInterface $passwordEncoder): Response
     {
+        if ($this->getUser()) {
+            return $this->redirectToRoute('quizzes');
+        }
         $user = new User();
         $form = $this->createForm(RegistrationFormType::class, $user);
         $form->handleRequest($request);
@@ -29,7 +32,7 @@ class RegistrationController extends AbstractController
                     $form->get('plainPassword')->getData()
                 )
             );
-            $user->setStatus(true);
+            $user->setStatus(false);
             $user->setRoles(["ROLE_USER"]);
 
             $entityManager = $this->getDoctrine()->getManager();
@@ -37,7 +40,7 @@ class RegistrationController extends AbstractController
             $entityManager->flush();
             // do anything else you need here, like send an email
 
-            return $this->redirectToRoute('_profiler_home');
+            return $this->redirectToRoute('home');
         }
 
         return $this->render('registration/register.html.twig', [

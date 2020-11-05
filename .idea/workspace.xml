@@ -1,21 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f02bc179-ecd7-44ac-aa38-76454d17a5a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/attribution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_shims.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/_variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/brands.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/fontawesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/regular.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/solid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/less/v4-shims.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/metadata/categories.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/metadata/icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/metadata/icons.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/metadata/shims.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/metadata/shims.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/metadata/sponsors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/sprites/brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/sprites/regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/sprites/solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/ad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/angry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/ankh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/at.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/atlas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/atom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/award.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/baby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bacon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bahai.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/ban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bath.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/beer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bible.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/blind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/blog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bolt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bomb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bong.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/boxes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/brain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/broom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/brush.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/burn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/bus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/car.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/chair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/chess.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/child.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/city.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/clone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cogs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/coins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/couch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/crow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/crown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cubes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/cut.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/deaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/dice.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/dizzy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/dna.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/dolly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/dove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/drum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/egg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/fan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/fax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/film.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/fire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/fish.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/flask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/frog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/frown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/gavel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/gem.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/ghost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/gifts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/grin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/hamsa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/hands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/hdd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/hippo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/horse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/hotel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/igloo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/jedi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/kiss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/leaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/male.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/mars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/mask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/meh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/om.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/paw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/pen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/plug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/poll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/poo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/poop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/pray.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/ring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/road.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/save.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/ship.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/sink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/smog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/sms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/soap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/sort.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/spa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/sync.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tape.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/taxi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/th.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tint.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/vest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/vial.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/wifi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/svgs/solid/wind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/framework/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quizotopia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quizotopia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/validator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/validator.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/RegistrationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RegistrationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/register.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -126,6 +348,8 @@
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-components" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jjIewlsU1bp0gykcSynsIarFDL" />
@@ -136,7 +360,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../symf" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\domains\quizotopia\public\asserts\framework\bootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\domains\quizotopia\public\asserts\framework" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,11 +379,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604311173770</updated>
-      <workItem from="1604311175623" duration="13821000" />
+      <workItem from="1604311175623" duration="16930000" />
+      <workItem from="1604483438647" duration="18000" />
+      <workItem from="1604504987271" duration="12290000" />
+      <workItem from="1604571328268" duration="12131000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604572328620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604572328620" />
+    <state x="874" y="138" key="NewPhpClassDialog" timestamp="1604512310598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="874" y="138" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1604512310598" />
   </component>
 </project>

@@ -2,21 +2,41 @@
 
 {% block title %}Register{% endblock %}
 
-{% block body %}
+{% block content %}
     {% for flashError in app.flashes('verify_email_error') %}
         <div class="alert alert-danger" role="alert">{{ flashError }}</div>
     {% endfor %}
-
-    <h1>Register</h1>
+<div class="mx-auto" style="width: 80%">
+    <p class="h2">Registration</p>
 
     {{ form_start(registrationForm) }}
-        {{ form_row(registrationForm.username) }}
-        {{ form_row(registrationForm.email) }}
-        {{ form_row(registrationForm.plainPassword, {
-            label: 'Password'
-        }) }}
-        {{ form_row(registrationForm.agreeTerms) }}
-
-        <button type="submit" class="btn">Register</button>
+    <div class="form-group">
+        <label >{{ form_label(registrationForm.username)}}</label>
+        {{ form_widget(registrationForm.username,{'attr': {'class': 'form-control'}}) }}
+    </div>
+    <div class="form-group">
+        <label>{{ form_label(registrationForm.email,null, {
+                'label': 'Email address'
+            })}}</label>
+    {{ form_widget(registrationForm.email,{'attr': {'class': 'form-control'}}) }}
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail">{{ form_label(registrationForm.plainPassword,null, {
+                'label': 'Password'
+            })}}</label>
+        {{ form_widget(registrationForm.plainPassword,{'attr': {'class': 'form-control'}}) }}
+    </div>
+        <div class="form-group form-check">{{ form_label(registrationForm.agreeTerms,null, {
+                'attr' :{'class': 'form-check-label'},
+                'label' : 'Agree terms'
+            }) }}
+            {{ form_widget(registrationForm.agreeTerms, {
+                'attr' :{'class': 'form-check-label',
+                }
+            }) }}
+        </div>
+    <button type="submit" class="btn btn-primary btn-lg">Register</button>
     {{ form_end(registrationForm) }}
+</div>
+</div>
 {% endblock %}
